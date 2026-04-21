@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-21T02:08:22.297Z",
+  "generated_at": "2026-04-21T03:12:02.490Z",
   "active_profile": "alice",
   "catalog": {
     "site": {
@@ -21,7 +21,7 @@
       "googleDevelopers": "",
       "openProfile": "",
       "curriculum": "https://github.com/mozgbrasil/node-vitepress-alice",
-      "githubPages": "https://github.com/mozgbrasil/node-vitepress-alice",
+      "githubPages": "",
       "profileImage": "/logo-mini.svg",
       "institutionLogo": "",
       "mapsUrl": "",
@@ -59,11 +59,7 @@
         "sameAs": [
           "https://github.com/mozgbrasil/node-vitepress-alice",
           "https://mozg.com.br/",
-          "https://github.com/mozgbrasil/node-vitepress-alice",
-          "https://github.com/mozgbrasil/node-vitepress-alice",
-          "https://mozg.com.br/",
-          "https://www.cerebrum.com.br/",
-          "https://github.com/mozgbrasil/node-vitepress-alice"
+          "https://www.cerebrum.com.br/"
         ]
       },
       "pixOptions": [],
@@ -390,7 +386,7 @@
     }
   },
   "audit": {
-    "generated_at": "2026-04-21T02:08:22.297Z",
+    "generated_at": "2026-04-21T03:12:02.490Z",
     "company": "Mozg & Cerebrum",
     "site_url": "https://mozg.com.br/",
     "counts": {
