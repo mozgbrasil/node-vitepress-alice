@@ -1,0 +1,27 @@
+{
+  "generated_at": "2026-04-21T00:39:41.953Z",
+  "filters_applied": {},
+  "total_signals": 3,
+  "total_available_signals": 3,
+  "linked_signals": 3,
+  "signals": [
+    {
+      "title": "Site institucional principal",
+      "description": "Referencia publica da marca Mozg.",
+      "href": "https://mozg.com.br/",
+      "value": "Mozg"
+    },
+    {
+      "title": "Site institucional complementar",
+      "description": "Referencia publica da marca Cerebrum.",
+      "href": "https://www.cerebrum.com.br/",
+      "value": "Cerebrum"
+    },
+    {
+      "title": "Repositorio publico do perfil",
+      "description": "Base auditavel para distribuicao e manutencao.",
+      "href": "https://github.com/mozgbrasil/node-vitepress-alice",
+      "value": "GitHub"
+    }
+  ]
+}

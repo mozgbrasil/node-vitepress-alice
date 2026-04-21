@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mozg.com.br//sitemap.xml
