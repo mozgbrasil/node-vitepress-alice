@@ -5,7 +5,7 @@
 - Role: Chief Executive Officer and Founder
 - Location: Brasil
 - Site: https://mozgbrasil.github.io/node-vitepress-alice/
-- Generated at: 2026-04-24T20:00:26.476Z
+- Generated at: 2026-04-24T22:30:41.489Z
 
 ## Summary
 Perfil executivo de Maria Alice dos Santos Amorim conectando Mozg e Cerebrum em uma narrativa publica de arquitetura, operacao e IA corporativa.
