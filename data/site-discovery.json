@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-04-21T03:12:02.490Z",
+  "generated_at": "2026-04-24T20:00:26.476Z",
   "filters_applied": {},
-  "total_items": 39,
-  "total_available_items": 39,
+  "total_items": 44,
+  "total_available_items": 44,
   "kinds": [
     { "label": "api", "count": 21 },
-    { "label": "presence", "count": 6 },
-    { "label": "contact", "count": 3 },
-    { "label": "page", "count": 3 },
-    { "label": "surface", "count": 3 },
-    { "label": "trust", "count": 3 }
+    { "label": "presence", "count": 8 },
+    { "label": "contact", "count": 4 },
+    { "label": "surface", "count": 4 },
+    { "label": "trust", "count": 4 },
+    { "label": "page", "count": 3 }
   ],
   "items": [
     {
@@ -205,7 +205,7 @@
       "id": "contact-cerebrum",
       "kind": "contact",
       "title": "Cerebrum",
-      "description": "site institucional complementar",
+      "description": "consultoria em IA corporativa e automacao",
       "href": "https://www.cerebrum.com.br/",
       "tags": ["contato", "canal", "cerebrum"],
       "meta": "Contato principal"
@@ -214,9 +214,18 @@
       "id": "contact-mozg",
       "kind": "contact",
       "title": "Mozg",
-      "description": "site institucional principal",
+      "description": "arquitetura, portfolio e operacao em dominio proprio",
       "href": "https://mozg.com.br/",
       "tags": ["contato", "canal", "mozg"],
+      "meta": "Contato principal"
+    },
+    {
+      "id": "contact-perfil-ao-vivo",
+      "kind": "contact",
+      "title": "Perfil ao vivo",
+      "description": "superficie executiva dedicada",
+      "href": "https://mozgbrasil.github.io/node-vitepress-alice/",
+      "tags": ["contato", "canal", "perfil-ao-vivo"],
       "meta": "Contato principal"
     },
     {
@@ -241,7 +250,7 @@
       "id": "page-maria-alice-dos-santos-amorim-mozg-cerebrum",
       "kind": "page",
       "title": "Maria Alice dos Santos Amorim | Mozg & Cerebrum",
-      "description": "Perfil institucional de Maria Alice dos Santos Amorim com presença pública em Mozg e Cerebrum e base editorial auditável.",
+      "description": "Perfil executivo de Maria Alice dos Santos Amorim conectando Mozg e Cerebrum em uma narrativa publica de arquitetura, operacao e IA corporativa.",
       "href": "/",
       "tags": ["pagina", "site", "/"],
       "meta": "Navegacao principal"
@@ -274,10 +283,19 @@
       "meta": "@alice"
     },
     {
+      "id": "presence-alice-base-publica-perfil-ao-vivo",
+      "kind": "presence",
+      "title": "alice · Base publica · Perfil ao vivo",
+      "description": "Perfil institucional no grupo Base publica.",
+      "href": "https://mozgbrasil.github.io/node-vitepress-alice/",
+      "tags": ["brand", "presenca", "base-publica", "perfil-ao-vivo"],
+      "meta": "@alice"
+    },
+    {
       "id": "presence-alice-cerebrum",
       "kind": "presence",
       "title": "alice · Cerebrum",
-      "description": "site institucional complementar",
+      "description": "IA corporativa e consultoria estrategica",
       "href": "https://www.cerebrum.com.br/",
       "tags": ["brand", "presenca", "cerebrum"],
       "meta": "@alice"
@@ -306,6 +324,15 @@
       "meta": "@alice"
     },
     {
+      "id": "presence-alice-perfil-ao-vivo",
+      "kind": "presence",
+      "title": "alice · Perfil ao vivo",
+      "description": "superficie executiva dedicada",
+      "href": "https://mozgbrasil.github.io/node-vitepress-alice/",
+      "tags": ["brand", "presenca", "perfil-ao-vivo"],
+      "meta": "@alice"
+    },
+    {
       "id": "presence-alice-repositorio-publico",
       "kind": "presence",
       "title": "alice · Repositorio publico",
@@ -318,7 +345,7 @@
       "id": "surface-cerebrum",
       "kind": "surface",
       "title": "Cerebrum",
-      "description": "Site institucional complementar.",
+      "description": "Frente institucional de consultoria em IA corporativa, automacao e estrategia AI-First.",
       "href": "https://www.cerebrum.com.br/",
       "tags": ["superficie", "publico", "distribuicao"],
       "meta": "Canal publico"
@@ -327,8 +354,17 @@
       "id": "surface-mozg",
       "kind": "surface",
       "title": "Mozg",
-      "description": "Site institucional principal.",
+      "description": "Site institucional com portfolio, stacks, operacao e camada editorial auditavel.",
       "href": "https://mozg.com.br/",
+      "tags": ["superficie", "publico", "distribuicao"],
+      "meta": "Canal publico"
+    },
+    {
+      "id": "surface-perfil-ao-vivo",
+      "kind": "surface",
+      "title": "Perfil ao vivo",
+      "description": "Superficie publica dedicada para consolidar contexto executivo, referencias e continuidade editorial.",
+      "href": "https://mozgbrasil.github.io/node-vitepress-alice/",
       "tags": ["superficie", "publico", "distribuicao"],
       "meta": "Canal publico"
     },
@@ -342,6 +378,24 @@
       "meta": "Canal publico"
     },
     {
+      "id": "trust-cnpj-ativo-da-cerebrum",
+      "kind": "trust",
+      "title": "CNPJ ativo da Cerebrum",
+      "description": "A frente institucional de IA corporativa publica CNPJ 07.361.259/0001-07 e tese operacional clara.",
+      "href": "https://www.cerebrum.com.br",
+      "tags": ["confianca", "institucional", "cnpj-ativo-da-cerebrum"],
+      "meta": "07.361.259/0001-07"
+    },
+    {
+      "id": "trust-perfil-publico-dedicado",
+      "kind": "trust",
+      "title": "Perfil publico dedicado",
+      "description": "Camada publica propria para reunir referencias executivas, marcas e distribuicao editorial.",
+      "href": "https://mozgbrasil.github.io/node-vitepress-alice",
+      "tags": ["confianca", "institucional", "perfil-publico-dedicado"],
+      "meta": "GitHub Pages"
+    },
+    {
       "id": "trust-repositorio-publico-do-perfil",
       "kind": "trust",
       "title": "Repositorio publico do perfil",
@@ -351,19 +405,10 @@
       "meta": "GitHub"
     },
     {
-      "id": "trust-site-institucional-complementar",
-      "kind": "trust",
-      "title": "Site institucional complementar",
-      "description": "Referencia publica da marca Cerebrum.",
-      "href": "https://www.cerebrum.com.br",
-      "tags": ["confianca", "institucional", "site-institucional-complementar"],
-      "meta": "Cerebrum"
-    },
-    {
       "id": "trust-site-institucional-principal",
       "kind": "trust",
       "title": "Site institucional principal",
-      "description": "Referencia publica da marca Mozg.",
+      "description": "Superficie publica com arquitetura, portfolio e operacao apresentados de forma auditavel.",
       "href": "https://mozg.com.br",
       "tags": ["confianca", "institucional", "site-institucional-principal"],
       "meta": "Mozg"
