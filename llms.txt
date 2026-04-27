@@ -5,7 +5,7 @@
 - Role: Super empreendedora e fundadora
 - Location: Brasil
 - Site: https://mozgbrasil.github.io/node-vitepress-alice/
-- Generated at: 2026-04-27T07:56:01.085Z
+- Generated at: 2026-04-27T08:52:37.227Z
 
 ## Summary
 Perfil institucional de Maria Alice dos Santos Amorim apresentando a Alice Holding como uma frente empreendedora autoral, contemporanea e pronta para crescer.
