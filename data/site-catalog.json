@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-04-24T22:30:41.489Z",
+  "generated_at": "2026-04-27T07:56:01.085Z",
   "active_profile": "alice",
   "catalog": {
     "site": {
-      "title": "Maria Alice dos Santos Amorim | Mozg & Cerebrum",
-      "description": "Perfil executivo de Maria Alice dos Santos Amorim conectando Mozg e Cerebrum em uma narrativa publica de arquitetura, operacao e IA corporativa.",
+      "title": "Maria Alice dos Santos Amorim | Alice Holding",
+      "description": "Perfil institucional de Maria Alice dos Santos Amorim apresentando a Alice Holding como uma frente empreendedora autoral, contemporanea e pronta para crescer.",
       "author": "Maria Alice dos Santos Amorim",
-      "company": "Mozg & Cerebrum",
-      "role": "Chief Executive Officer and Founder",
+      "company": "Alice Holding",
+      "role": "Super empreendedora e fundadora",
       "location": "Brasil",
       "siteUrl": "https://mozgbrasil.github.io/node-vitepress-alice/",
-      "socialImage": "https://mozgbrasil.github.io/node-vitepress-alice/og.jpg",
+      "socialImage": "https://mozgbrasil.github.io/node-vitepress-alice/assets/profile-branding/alice.jpeg",
       "email": "",
       "phone": "",
       "whatsapp": "",
       "linkedIn": "",
-      "github": "https://github.com/mozgbrasil/node-vitepress-alice",
+      "github": "",
       "bluesky": "",
       "githubSponsors": "",
       "googleDevelopers": "",
       "openProfile": "",
-      "curriculum": "https://mozg.com.br/",
+      "curriculum": "https://mozgbrasil.github.io/node-vitepress-alice/",
       "githubPages": "",
-      "profileImage": "/logo-mini.svg",
-      "institutionLogo": "",
+      "profileImage": "/assets/profile-branding/alice.jpeg",
+      "institutionLogo": "/assets/profile-branding/alice.jpeg",
       "mapsUrl": "",
       "mapsEmbedUrl": "",
       "address": {
@@ -37,74 +37,58 @@
       "foundedYear": 2016,
       "keywords": [
         "Maria Alice dos Santos Amorim",
-        "Mozg",
-        "Cerebrum",
-        "Chief Executive Officer",
-        "Founder",
-        "IA corporativa",
+        "Alice Holding",
+        "super empreendedora",
+        "fundadora",
         "perfil institucional",
-        "repositorio publico"
+        "empreendedorismo",
+        "perfil institucional",
+        "presenca publica"
       ],
       "structuredData": {
         "@context": "https://schema.org",
         "@type": "Person",
         "name": "Maria Alice dos Santos Amorim",
         "url": "https://mozgbrasil.github.io/node-vitepress-alice/",
-        "jobTitle": "Chief Executive Officer and Founder",
-        "worksFor": { "@type": "Organization", "name": "Mozg & Cerebrum" },
-        "description": "Perfil executivo de Maria Alice dos Santos Amorim conectando Mozg e Cerebrum em uma narrativa publica de arquitetura, operacao e IA corporativa.",
+        "jobTitle": "Super empreendedora e fundadora",
+        "worksFor": { "@type": "Organization", "name": "Alice Holding" },
+        "description": "Perfil institucional de Maria Alice dos Santos Amorim apresentando a Alice Holding como uma frente empreendedora autoral, contemporanea e pronta para crescer.",
         "knowsAbout": [
           "Maria Alice dos Santos Amorim",
-          "Mozg",
-          "Cerebrum",
-          "Chief Executive Officer",
-          "Founder",
-          "IA corporativa",
+          "Alice Holding",
+          "super empreendedora",
+          "fundadora",
           "perfil institucional",
-          "repositorio publico"
+          "empreendedorismo",
+          "perfil institucional",
+          "presenca publica"
         ],
         "sameAs": [
-          "https://github.com/mozgbrasil/node-vitepress-alice",
           "https://mozgbrasil.github.io/node-vitepress-alice/",
-          "https://mozg.com.br/",
-          "https://www.cerebrum.com.br/"
+          "https://github.com/mozgbrasil/node-vitepress-alice"
         ]
       },
       "pixOptions": [],
       "businessEntities": [
         {
-          "name": "Mozg",
+          "name": "Alice Holding",
           "cnpj": "",
-          "website": "https://mozg.com.br/",
-          "role": "site institucional principal",
-          "note": "Camada publica com arquitetura, produto, portfolio e operacao orientados por auditabilidade."
-        },
-        {
-          "name": "Cerebrum",
-          "cnpj": "07.361.259/0001-07",
-          "website": "https://www.cerebrum.com.br/",
-          "role": "site institucional complementar",
-          "note": "Frente institucional com consultoria estrategica, diagnostico e implementacao AI-First."
-        },
-        {
-          "name": "node-vitepress-alice",
-          "cnpj": "",
-          "website": "https://github.com/mozgbrasil/node-vitepress-alice",
-          "role": "repositorio publico de distribuicao",
-          "note": "Destino publico da superficie editorial."
+          "website": "https://mozgbrasil.github.io/node-vitepress-alice/",
+          "role": "presenca institucional principal",
+          "note": "Frente publica dedicada a posicionamento, visao empreendedora e consolidacao de marca pessoal."
         }
       ]
     },
     "hero": {
       "name": "Maria Alice dos Santos Amorim",
-      "text": "Perfil executivo com Mozg, Cerebrum e IA corporativa como eixos publicos",
-      "tagline": "Mozg, Cerebrum, perfil ao vivo e repositorio publico organizam uma narrativa unica de posicionamento, execucao e evolucao institucional."
+      "text": "Perfil institucional da Alice Holding com identidade autoral e ambicao empreendedora",
+      "tagline": "Alice Holding organiza uma narrativa publica elegante, proprietaria e preparada para crescer como frente empreendedora multinegocios."
     },
     "pages": [
       {
         "path": "/",
-        "title": "Maria Alice dos Santos Amorim | Mozg & Cerebrum",
-        "description": "Perfil executivo de Maria Alice dos Santos Amorim conectando Mozg e Cerebrum em uma narrativa publica de arquitetura, operacao e IA corporativa."
+        "title": "Maria Alice dos Santos Amorim | Alice Holding",
+        "description": "Perfil institucional de Maria Alice dos Santos Amorim apresentando a Alice Holding como uma frente empreendedora autoral, contemporanea e pronta para crescer."
       },
       {
         "path": "/contato",
@@ -121,13 +105,13 @@
     "journeyMilestones": [
       {
         "year": "Atual",
-        "title": "Frentes publicas alinhadas",
-        "description": "Mozg e Cerebrum passam a operar como camadas complementares da mesma presenca executiva."
+        "title": "Marca institucional consolidada",
+        "description": "A Alice Holding passa a operar como frente central de posicionamento e leitura institucional."
       },
       {
         "year": "Atual",
-        "title": "Narrativa de IA corporativa",
-        "description": "A frente da Cerebrum reforca uma tese publica clara sobre IA como infraestrutura corporativa."
+        "title": "Narrativa empreendedora",
+        "description": "A presenca publica reforca uma visao empreendedora clara, autoral e contemporanea."
       },
       {
         "year": "Atual",
@@ -136,9 +120,9 @@
       }
     ],
     "experienceHighlights": [
-      "Presenca publica executiva organizada entre Mozg e Cerebrum.",
-      "Narrativa institucional conectando arquitetura, operacao e IA corporativa.",
-      "Base pronta para evoluir com novas superficies, sinais de confianca e distribuicao auditavel."
+      "Presenca institucional autoral organizada em torno da Alice Holding.",
+      "Narrativa empreendedora clara, elegante e sem dependencia de marcas terceiras.",
+      "Base pronta para evoluir com novas superficies, sinais de confianca e expansao coerente."
     ],
     "flagshipProjects": [],
     "portfolioEntries": [],
@@ -150,51 +134,35 @@
     "operationalSignals": [],
     "publishedSurfaces": [
       {
-        "title": "Mozg",
-        "description": "Site institucional com portfolio, stacks, operacao e camada editorial auditavel.",
-        "href": "https://mozg.com.br/"
-      },
-      {
-        "title": "Cerebrum",
-        "description": "Frente institucional de consultoria em IA corporativa, automacao e estrategia AI-First.",
-        "href": "https://www.cerebrum.com.br/"
+        "title": "Alice Holding",
+        "description": "Superficie institucional dedicada para consolidar posicionamento, contexto e continuidade publica.",
+        "href": "https://mozgbrasil.github.io/node-vitepress-alice/"
       },
       {
         "title": "Perfil ao vivo",
         "description": "Superficie publica dedicada para consolidar contexto executivo, referencias e continuidade editorial.",
         "href": "https://mozgbrasil.github.io/node-vitepress-alice/"
-      },
-      {
-        "title": "Repositorio publico",
-        "description": "Espelho editorial auditável do perfil.",
-        "href": "https://github.com/mozgbrasil/node-vitepress-alice"
       }
     ],
     "publicJourneys": [],
     "trustSignals": [
       {
-        "title": "Site institucional principal",
-        "description": "Superficie publica com arquitetura, portfolio e operacao apresentados de forma auditavel.",
-        "href": "https://mozg.com.br/",
-        "value": "Mozg"
+        "title": "Marca institucional dedicada",
+        "description": "A Alice Holding organiza a presença pública em torno de uma identidade única e independente.",
+        "href": "https://mozgbrasil.github.io/node-vitepress-alice/",
+        "value": "Alice Holding"
       },
       {
-        "title": "CNPJ ativo da Cerebrum",
-        "description": "A frente institucional de IA corporativa publica CNPJ 07.361.259/0001-07 e tese operacional clara.",
-        "href": "https://www.cerebrum.com.br/",
-        "value": "07.361.259/0001-07"
+        "title": "Narrativa empreendedora clara",
+        "description": "O perfil foi estruturado para apresentar posicionamento, autoridade e contexto sem ruído institucional.",
+        "href": "https://mozgbrasil.github.io/node-vitepress-alice/",
+        "value": "Founder-led"
       },
       {
         "title": "Perfil publico dedicado",
         "description": "Camada publica propria para reunir referencias executivas, marcas e distribuicao editorial.",
         "href": "https://mozgbrasil.github.io/node-vitepress-alice/",
         "value": "GitHub Pages"
-      },
-      {
-        "title": "Repositorio publico do perfil",
-        "description": "Base auditavel para distribuicao e manutencao.",
-        "href": "https://github.com/mozgbrasil/node-vitepress-alice",
-        "value": "GitHub"
       }
     ],
     "operationalPillars": [],
@@ -308,24 +276,9 @@
     ],
     "contactLinks": [
       {
-        "href": "https://mozg.com.br/",
-        "label": "Mozg",
-        "note": "arquitetura, portfolio e operacao em dominio proprio"
-      },
-      {
-        "href": "https://www.cerebrum.com.br/",
-        "label": "Cerebrum",
-        "note": "consultoria em IA corporativa e automacao"
-      },
-      {
         "href": "https://mozgbrasil.github.io/node-vitepress-alice/",
         "label": "Perfil ao vivo",
         "note": "superficie executiva dedicada"
-      },
-      {
-        "href": "https://github.com/mozgbrasil/node-vitepress-alice",
-        "label": "Repositorio publico",
-        "note": "destino de publicacao do perfil"
       }
     ],
     "presenceProfiles": [
@@ -334,50 +287,33 @@
         "label": "Perfil institucional",
         "title": "alice",
         "handle": "@alice",
-        "summary": "Presenca executiva com Mozg, Cerebrum, perfil ao vivo e repositorio publico como superfícies complementares.",
-        "image": "/logo-mini.svg",
+        "summary": "Presenca institucional de super empreendedora com Alice Holding e perfil ao vivo como superfícies centrais.",
+        "image": "/assets/profile-branding/alice.jpeg",
         "imageAlt": "Marca institucional do perfil Alice",
         "imageNote": "Superficie institucional de Maria Alice",
         "primaryLinks": [
           {
-            "href": "https://mozg.com.br/",
-            "label": "Mozg",
-            "note": "site institucional principal"
-          },
-          {
-            "href": "https://www.cerebrum.com.br/",
-            "label": "Cerebrum",
-            "note": "IA corporativa e consultoria estrategica"
+            "href": "https://mozgbrasil.github.io/node-vitepress-alice/",
+            "label": "Alice Holding",
+            "note": "frente institucional principal"
           },
           {
             "href": "https://mozgbrasil.github.io/node-vitepress-alice/",
             "label": "Perfil ao vivo",
             "note": "superficie executiva dedicada"
-          },
-          {
-            "href": "https://github.com/mozgbrasil/node-vitepress-alice",
-            "label": "Repositorio publico",
-            "note": "publicacao do perfil"
           }
         ],
         "groups": [
           {
             "title": "Base publica",
             "links": [
-              { "href": "https://mozg.com.br/", "label": "Mozg" },
-              { "href": "https://www.cerebrum.com.br/", "label": "Cerebrum" },
+              {
+                "href": "https://mozgbrasil.github.io/node-vitepress-alice/",
+                "label": "Alice Holding"
+              },
               {
                 "href": "https://mozgbrasil.github.io/node-vitepress-alice/",
                 "label": "Perfil ao vivo"
-              }
-            ]
-          },
-          {
-            "title": "Distribuicao editorial",
-            "links": [
-              {
-                "href": "https://github.com/mozgbrasil/node-vitepress-alice",
-                "label": "Repositorio publico"
               }
             ]
           }
@@ -388,66 +324,50 @@
       "id": "alice",
       "slug": "alice",
       "label": "Alice",
-      "title": "Maria Alice dos Santos Amorim | Mozg & Cerebrum",
-      "headline": "Chief Executive Officer and Founder of Mozg & Cerebrum",
+      "title": "Maria Alice dos Santos Amorim | Alice Holding",
+      "headline": "Super empreendedora e fundadora da Alice Holding",
       "publicRepository": "https://github.com/mozgbrasil/node-vitepress-alice",
-      "primaryUrl": "https://mozg.com.br/",
-      "sourceUrls": [
-        "https://mozg.com.br/",
-        "https://www.cerebrum.com.br/",
-        "https://github.com/mozgbrasil/node-vitepress-alice"
-      ],
+      "primaryUrl": "https://mozgbrasil.github.io/node-vitepress-alice/",
+      "sourceUrls": ["https://mozgbrasil.github.io/node-vitepress-alice/"],
       "referenceLinks": [
-        {
-          "href": "https://mozg.com.br/",
-          "label": "Conhecer Mozg",
-          "note": "site institucional com foco em arquitetura, produto e operacao"
-        },
-        {
-          "href": "https://www.cerebrum.com.br/",
-          "label": "Conhecer Cerebrum",
-          "note": "site institucional focado em IA como infraestrutura corporativa"
-        },
         {
           "href": "https://mozgbrasil.github.io/node-vitepress-alice/",
           "label": "Perfil ao vivo",
-          "note": "superficie publica dedicada do perfil executivo"
-        },
-        {
-          "href": "https://github.com/mozgbrasil/node-vitepress-alice",
-          "label": "Repositorio publico",
-          "note": "destino publico da superficie editorial"
+          "note": "superficie publica dedicada do perfil institucional"
         }
       ],
       "schemaType": "Person",
       "heroMetrics": [
-        { "value": "Mozg", "label": "com arquitetura e operacao auditaveis" },
         {
-          "value": "AI-First",
-          "label": "como frente institucional da Cerebrum"
+          "value": "Alice Holding",
+          "label": "como marca institucional central"
         },
-        { "value": "CNPJ ativo", "label": "07.361.259/0001-07 na Cerebrum" }
+        { "value": "Multi-negocios", "label": "com leitura clara e moderna" },
+        {
+          "value": "Presença autoral",
+          "label": "com narrativa publica dedicada"
+        }
       ],
       "heroMetricsEn": [
+        { "value": "Alice Holding", "label": "as the central brand" },
         {
-          "value": "Mozg",
-          "label": "with auditable architecture and operations"
+          "value": "Multi-business",
+          "label": "with a modern public narrative"
         },
-        { "value": "AI-First", "label": "as Cerebrum institutional front" },
-        { "value": "Active tax id", "label": "07.361.259/0001-07 at Cerebrum" }
+        { "value": "Founder-led", "label": "with a dedicated public presence" }
       ],
       "navLinks": [],
       "pages": []
     }
   },
   "audit": {
-    "generated_at": "2026-04-24T22:30:41.489Z",
-    "company": "Mozg & Cerebrum",
+    "generated_at": "2026-04-27T07:56:01.085Z",
+    "company": "Alice Holding",
     "site_url": "https://mozgbrasil.github.io/node-vitepress-alice/",
     "counts": {
       "pages": 3,
       "api_routes": 21,
-      "discovery_items": 44,
+      "discovery_items": 34,
       "portfolio_entries": 0,
       "project_dossiers": 0,
       "category_profiles": 0,
@@ -456,14 +376,14 @@
       "stack_technologies": 0,
       "operation_dossiers": 0,
       "public_journeys": 0,
-      "trust_signals": 4,
+      "trust_signals": 3,
       "specialties": 0,
       "projects": 0,
-      "surfaces": 4,
+      "surfaces": 2,
       "presence_profiles": 1,
-      "presence_groups": 2,
-      "presence_links": 8,
-      "contact_links": 4
+      "presence_groups": 1,
+      "presence_links": 4,
+      "contact_links": 1
     },
     "pages": ["/", "/contato", "/presenca"],
     "api_paths": [

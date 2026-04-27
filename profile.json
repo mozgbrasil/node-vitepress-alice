@@ -1,37 +1,20 @@
 {
-  "generated_at": "2026-04-24T22:30:41.166Z",
+  "generated_at": "2026-04-27T07:56:00.795Z",
   "profile_id": "alice",
   "label": "Alice",
-  "title": "Maria Alice dos Santos Amorim | Mozg & Cerebrum",
-  "headline": "Chief Executive Officer and Founder of Mozg & Cerebrum",
-  "primary_url": "https://mozg.com.br/",
+  "title": "Maria Alice dos Santos Amorim | Alice Holding",
+  "headline": "Super empreendedora e fundadora da Alice Holding",
+  "primary_url": "https://mozgbrasil.github.io/node-vitepress-alice/",
   "public_repository": "https://github.com/mozgbrasil/node-vitepress-alice",
   "site_url": "https://mozgbrasil.github.io/node-vitepress-alice/",
   "source_urls": [
-    "https://mozg.com.br/",
-    "https://www.cerebrum.com.br/",
-    "https://github.com/mozgbrasil/node-vitepress-alice"
+    "https://mozgbrasil.github.io/node-vitepress-alice/"
   ],
   "reference_links": [
     {
-      "href": "https://mozg.com.br/",
-      "label": "Conhecer Mozg",
-      "note": "site institucional com foco em arquitetura, produto e operacao"
-    },
-    {
-      "href": "https://www.cerebrum.com.br/",
-      "label": "Conhecer Cerebrum",
-      "note": "site institucional focado em IA como infraestrutura corporativa"
-    },
-    {
       "href": "https://mozgbrasil.github.io/node-vitepress-alice/",
       "label": "Perfil ao vivo",
-      "note": "superficie publica dedicada do perfil executivo"
-    },
-    {
-      "href": "https://github.com/mozgbrasil/node-vitepress-alice",
-      "label": "Repositorio publico",
-      "note": "destino publico da superficie editorial"
+      "note": "superficie publica dedicada do perfil institucional"
     }
   ]
 }

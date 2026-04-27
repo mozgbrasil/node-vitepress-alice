@@ -1,17 +1,17 @@
-# Maria Alice dos Santos Amorim | Mozg & Cerebrum
+# Maria Alice dos Santos Amorim | Alice Holding
 
-- Company: Mozg & Cerebrum
+- Company: Alice Holding
 - Author: Maria Alice dos Santos Amorim
-- Role: Chief Executive Officer and Founder
+- Role: Super empreendedora e fundadora
 - Location: Brasil
 - Site: https://mozgbrasil.github.io/node-vitepress-alice/
-- Generated at: 2026-04-24T22:30:41.489Z
+- Generated at: 2026-04-27T07:56:01.085Z
 
 ## Summary
-Perfil executivo de Maria Alice dos Santos Amorim conectando Mozg e Cerebrum em uma narrativa publica de arquitetura, operacao e IA corporativa.
+Perfil institucional de Maria Alice dos Santos Amorim apresentando a Alice Holding como uma frente empreendedora autoral, contemporanea e pronta para crescer.
 
 ## Pages
-- Maria Alice dos Santos Amorim | Mozg & Cerebrum: https://mozgbrasil.github.io/node-vitepress-alice//
+- Maria Alice dos Santos Amorim | Alice Holding: https://mozgbrasil.github.io/node-vitepress-alice//
 - Contato: https://mozgbrasil.github.io/node-vitepress-alice//contato
 - Perfis: https://mozgbrasil.github.io/node-vitepress-alice//presenca
 
@@ -63,10 +63,9 @@ Perfil executivo de Maria Alice dos Santos Amorim conectando Mozg e Cerebrum em 
 
 
 ## Trust Signals
-- Site institucional principal: Superficie publica com arquitetura, portfolio e operacao apresentados de forma auditavel. [Mozg]
-- CNPJ ativo da Cerebrum: A frente institucional de IA corporativa publica CNPJ 07.361.259/0001-07 e tese operacional clara. [07.361.259/0001-07]
+- Marca institucional dedicada: A Alice Holding organiza a presença pública em torno de uma identidade única e independente. [Alice Holding]
+- Narrativa empreendedora clara: O perfil foi estruturado para apresentar posicionamento, autoridade e contexto sem ruído institucional. [Founder-led]
 - Perfil publico dedicado: Camada publica propria para reunir referencias executivas, marcas e distribuicao editorial. [GitHub Pages]
-- Repositorio publico do perfil: Base auditavel para distribuicao e manutencao. [GitHub]
 
 ## Static Exports
 - https://mozgbrasil.github.io/node-vitepress-alice//data/site-catalog.json

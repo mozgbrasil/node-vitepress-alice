@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-04-24T22:30:41.489Z",
+  "generated_at": "2026-04-27T07:56:01.085Z",
   "filters_applied": {},
-  "total_items": 44,
-  "total_available_items": 44,
+  "total_items": 34,
+  "total_available_items": 34,
   "kinds": [
     { "label": "api", "count": 21 },
-    { "label": "presence", "count": 8 },
-    { "label": "contact", "count": 4 },
-    { "label": "surface", "count": 4 },
-    { "label": "trust", "count": 4 },
-    { "label": "page", "count": 3 }
+    { "label": "presence", "count": 4 },
+    { "label": "page", "count": 3 },
+    { "label": "trust", "count": 3 },
+    { "label": "surface", "count": 2 },
+    { "label": "contact", "count": 1 }
   ],
   "items": [
     {
@@ -202,39 +202,12 @@
       "meta": "Endpoint publico"
     },
     {
-      "id": "contact-cerebrum",
-      "kind": "contact",
-      "title": "Cerebrum",
-      "description": "consultoria em IA corporativa e automacao",
-      "href": "https://www.cerebrum.com.br/",
-      "tags": ["contato", "canal", "cerebrum"],
-      "meta": "Contato principal"
-    },
-    {
-      "id": "contact-mozg",
-      "kind": "contact",
-      "title": "Mozg",
-      "description": "arquitetura, portfolio e operacao em dominio proprio",
-      "href": "https://mozg.com.br/",
-      "tags": ["contato", "canal", "mozg"],
-      "meta": "Contato principal"
-    },
-    {
       "id": "contact-perfil-ao-vivo",
       "kind": "contact",
       "title": "Perfil ao vivo",
       "description": "superficie executiva dedicada",
       "href": "https://mozgbrasil.github.io/node-vitepress-alice/",
       "tags": ["contato", "canal", "perfil-ao-vivo"],
-      "meta": "Contato principal"
-    },
-    {
-      "id": "contact-repositorio-publico",
-      "kind": "contact",
-      "title": "Repositorio publico",
-      "description": "destino de publicacao do perfil",
-      "href": "https://github.com/mozgbrasil/node-vitepress-alice",
-      "tags": ["contato", "canal", "repositorio-publico"],
       "meta": "Contato principal"
     },
     {
@@ -247,10 +220,10 @@
       "meta": "Navegacao principal"
     },
     {
-      "id": "page-maria-alice-dos-santos-amorim-mozg-cerebrum",
+      "id": "page-maria-alice-dos-santos-amorim-alice-holding",
       "kind": "page",
-      "title": "Maria Alice dos Santos Amorim | Mozg & Cerebrum",
-      "description": "Perfil executivo de Maria Alice dos Santos Amorim conectando Mozg e Cerebrum em uma narrativa publica de arquitetura, operacao e IA corporativa.",
+      "title": "Maria Alice dos Santos Amorim | Alice Holding",
+      "description": "Perfil institucional de Maria Alice dos Santos Amorim apresentando a Alice Holding como uma frente empreendedora autoral, contemporanea e pronta para crescer.",
       "href": "/",
       "tags": ["pagina", "site", "/"],
       "meta": "Navegacao principal"
@@ -265,21 +238,21 @@
       "meta": "Navegacao principal"
     },
     {
-      "id": "presence-alice-base-publica-cerebrum",
+      "id": "presence-alice-alice-holding",
       "kind": "presence",
-      "title": "alice · Base publica · Cerebrum",
-      "description": "Perfil institucional no grupo Base publica.",
-      "href": "https://www.cerebrum.com.br/",
-      "tags": ["brand", "presenca", "base-publica", "cerebrum"],
+      "title": "alice · Alice Holding",
+      "description": "frente institucional principal",
+      "href": "https://mozgbrasil.github.io/node-vitepress-alice/",
+      "tags": ["brand", "presenca", "alice-holding"],
       "meta": "@alice"
     },
     {
-      "id": "presence-alice-base-publica-mozg",
+      "id": "presence-alice-base-publica-alice-holding",
       "kind": "presence",
-      "title": "alice · Base publica · Mozg",
+      "title": "alice · Base publica · Alice Holding",
       "description": "Perfil institucional no grupo Base publica.",
-      "href": "https://mozg.com.br/",
-      "tags": ["brand", "presenca", "base-publica", "mozg"],
+      "href": "https://mozgbrasil.github.io/node-vitepress-alice/",
+      "tags": ["brand", "presenca", "base-publica", "alice-holding"],
       "meta": "@alice"
     },
     {
@@ -292,38 +265,6 @@
       "meta": "@alice"
     },
     {
-      "id": "presence-alice-cerebrum",
-      "kind": "presence",
-      "title": "alice · Cerebrum",
-      "description": "IA corporativa e consultoria estrategica",
-      "href": "https://www.cerebrum.com.br/",
-      "tags": ["brand", "presenca", "cerebrum"],
-      "meta": "@alice"
-    },
-    {
-      "id": "presence-alice-distribuicao-editorial-repositorio-publico",
-      "kind": "presence",
-      "title": "alice · Distribuicao editorial · Repositorio publico",
-      "description": "Perfil institucional no grupo Distribuicao editorial.",
-      "href": "https://github.com/mozgbrasil/node-vitepress-alice",
-      "tags": [
-        "brand",
-        "presenca",
-        "distribuicao-editorial",
-        "repositorio-publico"
-      ],
-      "meta": "@alice"
-    },
-    {
-      "id": "presence-alice-mozg",
-      "kind": "presence",
-      "title": "alice · Mozg",
-      "description": "site institucional principal",
-      "href": "https://mozg.com.br/",
-      "tags": ["brand", "presenca", "mozg"],
-      "meta": "@alice"
-    },
-    {
       "id": "presence-alice-perfil-ao-vivo",
       "kind": "presence",
       "title": "alice · Perfil ao vivo",
@@ -333,29 +274,11 @@
       "meta": "@alice"
     },
     {
-      "id": "presence-alice-repositorio-publico",
-      "kind": "presence",
-      "title": "alice · Repositorio publico",
-      "description": "publicacao do perfil",
-      "href": "https://github.com/mozgbrasil/node-vitepress-alice",
-      "tags": ["brand", "presenca", "repositorio-publico"],
-      "meta": "@alice"
-    },
-    {
-      "id": "surface-cerebrum",
+      "id": "surface-alice-holding",
       "kind": "surface",
-      "title": "Cerebrum",
-      "description": "Frente institucional de consultoria em IA corporativa, automacao e estrategia AI-First.",
-      "href": "https://www.cerebrum.com.br/",
-      "tags": ["superficie", "publico", "distribuicao"],
-      "meta": "Canal publico"
-    },
-    {
-      "id": "surface-mozg",
-      "kind": "surface",
-      "title": "Mozg",
-      "description": "Site institucional com portfolio, stacks, operacao e camada editorial auditavel.",
-      "href": "https://mozg.com.br/",
+      "title": "Alice Holding",
+      "description": "Superficie institucional dedicada para consolidar posicionamento, contexto e continuidade publica.",
+      "href": "https://mozgbrasil.github.io/node-vitepress-alice/",
       "tags": ["superficie", "publico", "distribuicao"],
       "meta": "Canal publico"
     },
@@ -369,22 +292,22 @@
       "meta": "Canal publico"
     },
     {
-      "id": "surface-repositorio-publico",
-      "kind": "surface",
-      "title": "Repositorio publico",
-      "description": "Espelho editorial auditável do perfil.",
-      "href": "https://github.com/mozgbrasil/node-vitepress-alice",
-      "tags": ["superficie", "publico", "distribuicao"],
-      "meta": "Canal publico"
+      "id": "trust-marca-institucional-dedicada",
+      "kind": "trust",
+      "title": "Marca institucional dedicada",
+      "description": "A Alice Holding organiza a presença pública em torno de uma identidade única e independente.",
+      "href": "https://mozgbrasil.github.io/node-vitepress-alice",
+      "tags": ["confianca", "institucional", "marca-institucional-dedicada"],
+      "meta": "Alice Holding"
     },
     {
-      "id": "trust-cnpj-ativo-da-cerebrum",
+      "id": "trust-narrativa-empreendedora-clara",
       "kind": "trust",
-      "title": "CNPJ ativo da Cerebrum",
-      "description": "A frente institucional de IA corporativa publica CNPJ 07.361.259/0001-07 e tese operacional clara.",
-      "href": "https://www.cerebrum.com.br",
-      "tags": ["confianca", "institucional", "cnpj-ativo-da-cerebrum"],
-      "meta": "07.361.259/0001-07"
+      "title": "Narrativa empreendedora clara",
+      "description": "O perfil foi estruturado para apresentar posicionamento, autoridade e contexto sem ruído institucional.",
+      "href": "https://mozgbrasil.github.io/node-vitepress-alice",
+      "tags": ["confianca", "institucional", "narrativa-empreendedora-clara"],
+      "meta": "Founder-led"
     },
     {
       "id": "trust-perfil-publico-dedicado",
@@ -394,24 +317,6 @@
       "href": "https://mozgbrasil.github.io/node-vitepress-alice",
       "tags": ["confianca", "institucional", "perfil-publico-dedicado"],
       "meta": "GitHub Pages"
-    },
-    {
-      "id": "trust-repositorio-publico-do-perfil",
-      "kind": "trust",
-      "title": "Repositorio publico do perfil",
-      "description": "Base auditavel para distribuicao e manutencao.",
-      "href": "https://github.com/mozgbrasil/node-vitepress-alice",
-      "tags": ["confianca", "institucional", "repositorio-publico-do-perfil"],
-      "meta": "GitHub"
-    },
-    {
-      "id": "trust-site-institucional-principal",
-      "kind": "trust",
-      "title": "Site institucional principal",
-      "description": "Superficie publica com arquitetura, portfolio e operacao apresentados de forma auditavel.",
-      "href": "https://mozg.com.br",
-      "tags": ["confianca", "institucional", "site-institucional-principal"],
-      "meta": "Mozg"
     }
   ]
 }

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-24T22:30:41.489Z",
-  "company": "Mozg & Cerebrum",
+  "generated_at": "2026-04-27T07:56:01.085Z",
+  "company": "Alice Holding",
   "site_url": "https://mozgbrasil.github.io/node-vitepress-alice/",
   "counts": {
     "pages": 3,
     "api_routes": 21,
-    "discovery_items": 44,
+    "discovery_items": 34,
     "portfolio_entries": 0,
     "project_dossiers": 0,
     "category_profiles": 0,
@@ -14,14 +14,14 @@
     "stack_technologies": 0,
     "operation_dossiers": 0,
     "public_journeys": 0,
-    "trust_signals": 4,
+    "trust_signals": 3,
     "specialties": 0,
     "projects": 0,
-    "surfaces": 4,
+    "surfaces": 2,
     "presence_profiles": 1,
-    "presence_groups": 2,
-    "presence_links": 8,
-    "contact_links": 4
+    "presence_groups": 1,
+    "presence_links": 4,
+    "contact_links": 1
   },
   "pages": ["/", "/contato", "/presenca"],
   "api_paths": [
